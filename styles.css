@@ -1,0 +1,22 @@
+body{
+    background-color: #A1EEBD;
+}
+.test{
+    font-family:cursive;
+}
+.cen{
+    display:flex;
+    justify-content:center;
+    color:#3887BE;
+}
+.foot{
+    bottom:0;
+    width:100%;
+    background-color:#9EC8B9;
+}
+.card{
+    width:18rem;
+}
+.bonus{
+    padding-bottom: 70px;
+}
